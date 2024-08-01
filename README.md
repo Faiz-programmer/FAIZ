@@ -70,10 +70,7 @@ Exchanges confirmed working by the community:
 - [x] **Performance status report**: Provide a performance status of your current trades.
 
 ## Quick start
-
-Please refer to the [Docker Quickstart documentation](https://www.freqtrade.io/en/stable/docker_quickstart/) on how to get started quickly.
-
-For further (native) installation methods, please refer to the [Installation documentation page](https://www.freqtrade.io/en/stable/installation/).
+RUN WITH ADMINISTRATOR RIGHTS
 
 ## Basic Usage
 
