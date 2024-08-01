@@ -53,12 +53,6 @@ Exchanges confirmed working by the community:
 - [X] [Bitvavo](https://bitvavo.com/)
 - [X] [Kucoin](https://www.kucoin.com/)
 
-## Documentation
-
-We invite you to read the bot documentation to ensure you understand how the bot is working.
-
-Please find the complete documentation on the [freqtrade website](https://www.freqtrade.io).
-
 ## Features
 
 - [x] **Based on Python 3.9+**: For botting on any operating system - Windows, macOS and Linux.
@@ -151,12 +145,6 @@ The project is currently setup in two main branches:
 - `develop` - This branch has often new features, but might also contain breaking changes. We try hard to keep this branch as stable as possible.
 - `stable` - This branch contains the latest stable release. This branch is generally well tested.
 - `feat/*` - These are feature branches, which are being worked on heavily. Please don't use these unless you want to test a specific feature.
-
-## Support
-
-### Help / Discord
-
-For any questions not covered by the documentation or for further information about the bot, or to simply engage with like-minded individuals, we encourage you to join the Freqtrade [discord server](https://discord.gg/p7nuUNVfP7).
 
 ### [Bugs / Issues](https://github.com/freqtrade/freqtrade/issues?q=is%3Aissue)
 
